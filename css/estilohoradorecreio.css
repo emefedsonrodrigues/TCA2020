@@ -11,7 +11,7 @@ body, ul, li p{
 .n{
 	color:black;
 	font-family: 'Titillium Web', sans-serif;
-	background:#ffdb58; 
+	background:#ffdb58;
 }
 
 a{
@@ -67,7 +67,7 @@ li{
    font-family: 'Titillium Web', sans-serif;
    background:#ffdb58;
    border-radius:25px;
-   border:#ffdb58; 
+   border:#ffdb58;
 }
 
 .fonte{
@@ -96,8 +96,8 @@ ul li:hover > ul, ul li ul:hover{
 	padding:20px;
 	margin-left:-47px;
 	width:200px;
-	text-align:center;	
-} 
+	text-align:center;
+}
 
 /*main*/
 
@@ -131,7 +131,7 @@ iframe{
 }
 
 .footer>.ul>.li{
-	background:#ffdb58; 
+	background:#ffdb58;
 }
 
 .footer>nav>.ul>.li{
@@ -141,4 +141,8 @@ iframe{
 	text-decoration: none;
 	color: white;
 	font-size: 1.2em;
+}
+.padlet:hover{
+	background-color: #ffdb58;
+	color: black;
 }
