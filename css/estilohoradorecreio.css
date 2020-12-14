@@ -137,3 +137,12 @@ iframe{
 .footer>nav>.ul>.li{
 	background:#ffdb58
 }
+.padlet{
+	text-decoration: none;
+	color: white;
+	font-size: 1.2em;
+}
+.padlet:hover{
+	background-color: #ffdb58;
+	color: black;
+}
